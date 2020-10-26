@@ -1,0 +1,23 @@
+public class HomeWork2 {
+    public static void main(String[] args) {
+        byte a = 68;
+        short b = 458;
+        int c = 65357;
+        long d = 548586464;
+        float e = 4.78f;
+        double f = 6.846453535;
+        char g = 'B';
+
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(g);
+
+        
+
+
+    }
+}
